@@ -7,7 +7,7 @@ Write the correct username, password and url into src/config.js
 
 
 ``` bash
-git clone git@github.com:EastOfGondor/graphiql-competitor-hub.git graphiql-competitor-hub
-cd alice-swagger-ui-2
+git clone https://github.com/BudickDa/react-graphiql.git react-graphiql
+cd react-graphiql
 yarn quickstart
 ```
